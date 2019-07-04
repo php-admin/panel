@@ -1,0 +1,2 @@
+# panel
+Abstract admin panel
